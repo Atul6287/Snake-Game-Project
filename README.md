@@ -6,8 +6,6 @@ A simple browser-based Snake game built with HTML, CSS, and JavaScript.
 
 ![Snake Game Screenshot](screenshot-snake.png)
 
-> Replace the above image path with your actual screenshot file once ready.
-
 ## How to Run
 
 1. Open `index.html` in a web browser.
