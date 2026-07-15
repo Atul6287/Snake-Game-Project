@@ -89,5 +89,5 @@ const initGame = () => {
 }
 
 updateFoodPosition();
-setIntervalId = setInterval(initGame, 100);
+setIntervalId = setInterval(initGame,200); // Calling initGame every 200ms means snake will move every 200ms
 document.addEventListener("keyup", changeDirection);
